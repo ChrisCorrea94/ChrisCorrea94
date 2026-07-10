@@ -33,15 +33,9 @@
   <img src="https://skillicons.dev/icons?i=go,nodejs" />
 </p>
 
-### 🤖 AI & Agent Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-</p>
-
 ### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,xcode,androidstudio,apple,android" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,androidstudio,apple,android" />
 </p>
 
 ### 🎨 Frontend
